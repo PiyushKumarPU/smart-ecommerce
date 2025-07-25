@@ -1,0 +1,17 @@
+com\instaprepsai\common\api\response\error\ApiError.class
+com\instaprepsai\common\api\response\error\ApiErrorDetail.class
+com\instaprepsai\common\api\response\InstaprepsApiResponse$InstaprepsApiResponseBuilder.class
+com\instaprepsai\common\data\embedded\Versioned.class
+com\instaprepsai\common\data\embedded\Immutable.class
+com\instaprepsai\common\CommonLibApplication.class
+com\instaprepsai\common\exception\enums\ErrorCode.class
+com\instaprepsai\common\api\response\error\ApiError$ApiErrorBuilder.class
+com\instaprepsai\common\data\embedded\CompositeImmutable.class
+com\instaprepsai\common\api\response\error\FieldValidationError.class
+com\instaprepsai\common\exception\BusinessException.class
+com\instaprepsai\common\exception\enums\ExceptionType.class
+com\instaprepsai\common\api\response\error\ApiErrorDetail$ApiErrorDetailBuilder.class
+com\instaprepsai\common\exception\handler\GlobalExceptionHandler.class
+com\instaprepsai\common\data\embedded\Mutable.class
+com\instaprepsai\common\exception\converter\ValidationErrorConverter.class
+com\instaprepsai\common\api\response\InstaprepsApiResponse.class
